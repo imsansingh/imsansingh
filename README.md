@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imsansingh
+- 👋 Hi, I’m Sandeep Singh Rajawat
 - 👀 I’m interested in learning data science
 - 🌱 I’m currently learning machine learning
 
